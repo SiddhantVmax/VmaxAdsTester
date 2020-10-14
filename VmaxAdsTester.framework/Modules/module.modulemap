@@ -1,0 +1,6 @@
+framework module VmaxAdsTester {
+  umbrella header "VmaxAdsTester.h"
+
+  export *
+  module * { export * }
+}
