@@ -6,12 +6,12 @@ Pod::Spec.new do |spec|
 
   spec.name         = "VmaxAdsTester"
   spec.version      = "0.0.1"
-  spec.summary      = "siddhant demo frame work for something good yo it will be good"
+  spec.summary      = "VmaxAdsTester helps publishers to draw customized Ads experiences"
 
   
-  spec.description  = "siddhant demo frame work for something good yo it will be good warmane lovers"
+  spec.description  = "The experiences can be uploaded in the form of Templates in the Ad Console"
 
-  spec.homepage     = "https://github.com/SiddhantVmax/TemplateHelperSiddhant"
+  spec.homepage     = "https://github.com/SiddhantVmax/VmaxAdsTester"
   
 
 
@@ -26,7 +26,7 @@ Pod::Spec.new do |spec|
 
 
 
-  spec.source       = { :git => "https://github.com/SiddhantVmax/TemplateHelperSiddhant.git", :tag => "0.0.1" }
+  spec.source       = { :git => "https://github.com/SiddhantVmax/VmaxAdsTester.git", :tag => "0.0.1" }
 
 
   
